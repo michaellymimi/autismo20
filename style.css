@@ -1,0 +1,17 @@
+.sal {
+   width: 100%;
+}
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(247, 247, 247);
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgb(207, 7, 7);
+}
